@@ -9,5 +9,5 @@ if(marks >= 90){
 if(1){
     console.log("Working");
 }else{
-    console.llog("False value");
+    console.log("False value");
 }
